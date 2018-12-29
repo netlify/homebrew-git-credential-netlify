@@ -3,7 +3,7 @@ class GitCredentialNetlify < Formula
   homepage "https://github.com/netlify/netlify-credential-helper"
   url "https://github.com/netlify/netlify-credential-helper/releases/download/v0.1.0/git-credential-netlify-darwin-amd64.tar.gz"
   version "0.1.0"
-  sha256 "a1c428050180cedff6f73f9e46ae44a37470522c62bc8118338ef7db7c2f97b9"
+  sha256 "fd3f4b1ea2ebd1701e95978aca2df350cddce59335b123ab1cb2c1031d76573f"
 
   def install
     bin.install "git-credential-netlify"
